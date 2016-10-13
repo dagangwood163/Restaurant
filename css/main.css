@@ -173,7 +173,7 @@ div#bs-example-navbar-collapse-1 {
     text-decoration: none !important;
 }
 .navbar-brand{
-    font-family: 'Pacifico', cursive;
+    font-family: 'Playball', cursive;
     font-size: 34px !important;
     text-decoration: none;
     color: white !important;
@@ -460,7 +460,7 @@ p.sub-footer-text a{
 }
 
 .inner.contact {
-    padding: 50px 0;
+    padding: 1px 0;
 }
 
 /* Input Styles */
